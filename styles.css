@@ -1,0 +1,27 @@
+body {
+  border: 1px solid lightgray;
+    width: 320px;
+     }
+h3 {
+  margin: 10px;
+  background-color: lightblue
+}
+img {
+  width: 300px;
+  margin: 10px;
+    }
+.info {
+  border: 1px solid lightgray;
+  margin: 5px;
+  padding: 4px;
+}
+.fact {
+  font-style: italic;
+  }
+  ul {
+    list-style: none;
+  }
+span {
+  font-weight: bold;
+      }
+/* add your CSS here */
